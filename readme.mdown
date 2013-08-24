@@ -1,0 +1,12 @@
+#The National Business Park
+##Part of a Tour of Monuments of the Surveillance State
+
+The National Business Park is an office park less than a mile away from Fort Meade, Maryland. It houses offices of most of the major players of the defense contractor industry (L-3 Communications, Booz Allen Hamilton, General Dynamics, Northrop Grumman) as well as some government agencies (which ones, exactly, are classified). 
+
+This is a collection of documents and resources for  a project researching the architecture and lanscape of the seemingly banal office park as a lens through which to better understand the different players and participants in the defense contracting industry.
+
+###Contents
+
+* `img`: screenshots of Google Streetview and Bing Maps sattellite images, images pulled from articles about NBP
+* `notes`: tables on different buildings, notes on NBP tenants, notes on Corporate Office Properties Trust
+* `docs`: bibliography, primary-source documents
