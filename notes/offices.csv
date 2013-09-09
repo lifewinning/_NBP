@@ -1,28 +1,28 @@
-latitude,longitude,address,architect,date of completion,tenant
-39.122284,-76.778461,"114 National Business Parkway, Jessup, MD 20701",,,
-39.123812,-76.775261,"131 National Business Parkway, Jessup, MD 20701",,,"Boeing, Abraxas Corporation"
-39.123732,-76.775319,"132 National Business Parkway, Jessup, MD 20701",,,Harris Government Communication Systems
-39.124176,-76.775101,"133 National Business Parkway, Jessup, MD 20701",,,"Proteus Technologies, STG Inc."
-39.123907,-76.775242,"134 National Business Parkway, Jessup, MD 20701",George Vareth Associates,,Booz Allen Hamilton
-39.12454,-76.774937,"135 National Business Parkway, Jessup, MD 20701",,,
-39.12443,-76.775012,"140 National Business Parkway, Jessup, MD 20701",George Vareth Associates,,
-39.125628,-76.774431,"141 National Business Parkway, Jessup, MD 20701",,,
-39.121803,-76.776798,"2691 Technology Drive, Jessup, MD 20701",Gileau-Pouton Architects,2002,Northrop Grumman
-39.121747,-76.776765,"2701 Technology Drive, Jessup, MD 20701",Gileau-Pouton Architects,2003,
-39.121253,-76.776282,"2711 Technology Drive, Jessup, MD 20701",Gileau-Pouton Architects,2004,Computer Sciences Corporation
-39.120784,-76.77534,"2720 Technology Drive, Jessup, MD 20701",Gileau-Pouton Architects,2005,L-3 Communications
-39.120768,-76.775356,"2721 Technology Drive, Jessup, MD 20701",Gileau-Pouton Architects,2006,General Dynamics
-39.119165,-76.778871,"2730 Hercules Road, Jessup, MD 20701",,,Department of Defense
-39.123848,-76.772323,"300 Sentinel Drive, Annapolis Junction, MD",Baker and Associates,,Raytheon
-39.123848,-76.772323,"302 Sentinel Drive, Jessup, MD 20701",George Vareth Associates,,
-39.123848,-76.772323,"304 Sentinel Drive, Jessup, MD 20701",George Vareth Associates,,Booz Allen Hamilton
-39.123848,-76.772323,"306 Sentinel Drive, Jessup, MD 20701",George Vareth Associates,,
-39.123848,-76.772323,"308 Sentinel Drive, Jessup, MD 20701",George Vareth Associates,,Booz Allen Hamilton
-39.122832,-76.784709,"316 Sentinel Way, Jessup, MD 20701",,,
-39.122832,-76.784709,"318 Sentinel Way, Jessup, MD 20701",,,
-39.122832,-76.784709,"320 Sentinel Way, Jessup, MD 20701",,,
-39.122832,-76.784709,"322 Sentinel Way, Jessup, MD 20701",,,
-39.122832,-76.784709,"324 Sentinel Way, Jessup, MD 20701",,,
-39.12819,-76.771179,"410 National Business Parkway, Jessup, MD 20701",George Vareth Associates,under construction?,
-39.12819,-76.771179,"420 National Business Parkway, Jessup, MD 20701",George Vareth Associates,under construction?,
-39.12819,-76.771179,"430 National Business Parkway, Jessup, MD 20701",George Vareth Associates,under construction?,
+latitude	longitude	address	City	state/zip	Architect	Date of Completion	Tenants (Current)	Tenants (former)
+39.122284	-76.778461	114 National Business Parkway	 Jessup	 MD 20701			Cafe Joe	
+39.123812	-76.775261	131 National Business Parkway	 Jessup	 MD 20701			“Kestrel (Boeing),  Abraxas Corporation, Conquest Inc (Boeing)”, JASAWG	E-Spire (formerly American Communications Systems); filed for Chapter 11 in 2001?
+39.123732	-76.775319	132 National Business Parkway	 Jessup	 MD 20701			“Harris Government Communication Systems, Eagle Alliance (CSC-Northrop Grumman Joint)”	Ameritrade 1999-2003
+39.124176	-76.775101	133 National Business Parkway	 Jessup	 MD 20701			“Proteus Technologies,  STG Inc.”	
+39.123907	-76.775242	134 National Business Parkway	 Jessup	 MD 20701	George Vareth Associates		Booz Allen Hamilton	Mentor Technologies
+39.12454	-76.774937	135 National Business Parkway	 Jessup	 MD 20701			“Praxis Technologies, Comcast Business Communications”	
+39.12443	-76.775012	140 National Business Parkway	 Jessup	 MD 20701	George Vareth Associates		USG (NSA)	
+39.125628	-76.774431	141 National Business Parkway	 Jessup	 MD 20701			“Sitec Consulting, Exelis Inc(?), ”	
+39.121803	-76.776798	2691 Technology Drive	 Jessup	 MD 20701	Gileau-Pouton Architects	2002	Northrop Grumman 	
+39.121747	-76.776765	2701 Technology Drive	 Jessup	 MD 20701	Gileau-Pouton Architects	2003	“TASC, Bridges Consulting, ITSM Alliance”	Stanford Telecommunications
+39.121253	-76.776282	2711 Technology Drive	 Jessup	 MD 20701	Gileau-Pouton Architects	2004	Computer Sciences Corporation/Eagle Alliance	
+39.120784	-76.77534	2720 Technology Drive	 Jessup	 MD 20701	Gileau-Pouton Architects	2005	“L-3 Communications (Titan Group Division?), URS Corp”	
+39.120768	-76.775356	2721 Technology Drive	 Jessup	 MD 20701	Gileau-Pouton Architects	2006	“General Dynamics, National Security Partners, Army Corps of Engineers”	
+39.119165	-76.778871	2730 Hercules Road	 Jessup	 MD 20701			Department of Defense	
+39.122223	-76.772757	300 Sentinel Drive	 Annapolis Junction	 MD	Baker and Associates		“The MITRE Corporation, Raytheon, a Subway sandwich shop?, US Army Corps of Engineers?”	
+39.122553	-76.771699	302 Sentinel Drive	 Jessup	 MD 20701	George Vareth Associates		“Argon ST, G2, Maryland Community Corrections office, Rohde & Schwarz Federal Systems, Inc, Altamira Technologies Corporation, Ventura Solutions”	
+39.123319	-76.772182	304 Sentinel Drive	 Jessup	 MD 20701	George Vareth Associates		Booz Allen Hamilton	
+39.123269	-76.770082	306 Sentinel Drive	 Jessup	 MD 20701	George Vareth Associates		“BAE Systems, Oracle, Alion Science and Technology Corporation, CollabraSpace, ”	
+39.125762	-76.771872	308 Sentinel Drive	 Jessup	 MD 20701	George Vareth Associates		“Booz Allen Hamilton,  TexelTek”	
+39.125666	-76.767425	316 Sentinel Way	 Jessup	 MD 20701				
+39.127153	-76.768351	318 Sentinel Way	 Jessup	 MD 20701				
+39.126115	-76.76818	320 Sentinel Way	 Jessup	 MD 20701			Possibly NSA?	
+39.127451	-76.767923	322 Sentinel Way	 Jessup	 MD 20701			Possibly NSA?	
+39.128138	-76.766109	324 Sentinel Way	 Jessup	 MD 20701			Possibly NSA?	
+39.135018	-76.767849	410 National Business Parkway	 Jessup	 MD 20701	George Vareth Associates	under construction	Lockheed Martin	
+39.135018	-76.767849	420 National Business Parkway	 Jessup	 MD 20701	George Vareth Associates	under construction		
+39.13512	-76.768073	430 National Business Parkway	 Jessup	 MD 20701	George Vareth Associates		“URS Corp, Sotera Defense, General Dynamics C4 Systems, Worldwide Technology Inc,” 	
